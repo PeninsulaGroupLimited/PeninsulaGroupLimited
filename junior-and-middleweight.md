@@ -1,6 +1,6 @@
 # Front-end task for Junior and Middleweight roles
 
-Firstly, thanks for applying to work with us at BrightHR. We ask all potential candidates to complete a small task to help assess your technical skills.
+Firstly, thanks for applying to work with us at Peninsula Group Limited. We ask all potential candidates to complete a small task to help assess your technical skills.
 
 We appreciate your time is precious so don't spend too long on it - however it is important to let us know what you have left out in your Readme so we can understand what you _would_ do given more time.
 
@@ -15,7 +15,7 @@ We're as interested in the process that you go through to develop the code as th
 
 # The task
 
-BrightHR has a section for storing, uploading and viewing documents. We would like you to build a single page application where a user can view documents that an administrator user has previously uploaded. The application should show a list of folders and files.
+Peninsula Group Limited has a section for storing, uploading and viewing documents. We would like you to build a single page application where a user can view documents that an administrator user has previously uploaded. The application should show a list of folders and files.
 
 For each file show at least:
 

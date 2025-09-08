@@ -1,6 +1,6 @@
 # Front-end task for Senior and Principal roles
 
-Firstly, thanks for applying to work with us at BrightHR. We ask all potential candidates to complete a task to help assess your technical skills.
+Firstly, thanks for applying to work with us at Peninsula Group Limited. We ask all potential candidates to complete a task to help assess your technical skills.
 
 We appreciate your time is precious so don't spend too long on it - however it is important to let us know what you have left out in your Readme so we can understand what you _would_ do given more time.
 
